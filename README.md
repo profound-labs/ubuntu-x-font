@@ -13,7 +13,7 @@ Pāli accents:
 Ā Ī Ū Ṃ Ṅ Ñ Ṭ Ḍ Ṇ Ḷ
 ```
 
-Added:
+The original was missing:
 
 ```
 ṃ ṅ ṭ ḍ ṇ ḷ
