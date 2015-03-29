@@ -2,7 +2,7 @@
 
 The Ubuntu font extended with Pāli accents
 
-Install the `.otf` and find it as 'Ubuntu X'.
+Install the `.ttf` and find it as 'Ubuntu X'.
 
 This is only the Medium weight for now.
 
