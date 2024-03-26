@@ -9,14 +9,14 @@ This is only the Medium weight for now.
 Pāli accents:
 
 ```
-ā ī ū ṃ ṅ ñ ṭ ḍ ṇ ḷ
-Ā Ī Ū Ṃ Ṅ Ñ Ṭ Ḍ Ṇ Ḷ
+ā ī ū ṃ ṁ ṅ ñ ṭ ḍ ṇ ḷ
+Ā Ī Ū Ṃ Ṁ Ṅ Ñ Ṭ Ḍ Ṇ Ḷ
 ```
 
 The original was missing:
 
 ```
-ṃ ṅ ṭ ḍ ṇ ḷ
-Ṃ Ṅ Ṭ Ḍ Ṇ Ḷ
+ṃ ṁ ṅ ṭ ḍ ṇ ḷ
+Ṃ Ṁ Ṅ Ṭ Ḍ Ṇ Ḷ
 ```
 
